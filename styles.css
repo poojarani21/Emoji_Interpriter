@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(245, 54, 29);
+  }
+  input{
+    padding: 1rem;
+    width: 80%;
+  }
+  .see{
+    color: black;
+  }
+  
+  
